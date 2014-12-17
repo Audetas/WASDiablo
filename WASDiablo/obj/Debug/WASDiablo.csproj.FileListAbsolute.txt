@@ -1,0 +1,9 @@
+C:\Users\Alec Audet\Google Drive\Projects\WASDiablo\WASDiablo\bin\Debug\WASDiablo.exe.config
+C:\Users\Alec Audet\Google Drive\Projects\WASDiablo\WASDiablo\bin\Debug\WASDiablo.exe
+C:\Users\Alec Audet\Google Drive\Projects\WASDiablo\WASDiablo\bin\Debug\WASDiablo.pdb
+C:\Users\Alec Audet\Google Drive\Projects\WASDiablo\WASDiablo\obj\Debug\WASDiablo.csprojResolveAssemblyReference.cache
+C:\Users\Alec Audet\Google Drive\Projects\WASDiablo\WASDiablo\obj\Debug\WASDiablo.FrmMain.resources
+C:\Users\Alec Audet\Google Drive\Projects\WASDiablo\WASDiablo\obj\Debug\WASDiablo.Properties.Resources.resources
+C:\Users\Alec Audet\Google Drive\Projects\WASDiablo\WASDiablo\obj\Debug\WASDiablo.csproj.GenerateResource.Cache
+C:\Users\Alec Audet\Google Drive\Projects\WASDiablo\WASDiablo\obj\Debug\WASDiablo.exe
+C:\Users\Alec Audet\Google Drive\Projects\WASDiablo\WASDiablo\obj\Debug\WASDiablo.pdb
